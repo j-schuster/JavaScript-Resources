@@ -14,9 +14,11 @@ Welcome! I put together this document to keep track of helpful and educational t
 ### Tools and Frameworks 
 
 `Educational`
+
 [javascriptstuff.com](https://www.javascriptstuff.com)
 
 `React JS`
+
 [reactjs.org](https://reactjs.org/)
 
 ### Reactive Programming 
