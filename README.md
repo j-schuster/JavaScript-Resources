@@ -25,3 +25,5 @@ Welcome! I put together this document to keep track of helpful and educational t
 
 [rxjsdocs](https://rxjs-dev.firebaseapp.com/guide/overview)
 [learnrxjs](https://www.learnrxjs.io)
+
+[intro to rxjs](https://medium.com/@rossbulat/rxjs-a-simple-introduction-32fb48f52a67)
