@@ -5,7 +5,7 @@ Welcome! I put together this document to keep track of helpful and educational t
 
 ### Roadmap of a frontend developer 
 
-[roadmap.sh guide](https://roadmap.sh/frontend)
+[Frontend Developer](https://roadmap.sh/frontend)
 
 ### JavaScript Fundamentals - Beginner to Advanced 
 
@@ -35,4 +35,4 @@ Welcome! I put together this document to keep track of helpful and educational t
 
 ### Design patterns
 
-[roadmap.sh design patterns for humans](https://roadmap.sh/guides/design-patterns-for-humans)
+[design patterns for humans](https://roadmap.sh/guides/design-patterns-for-humans)
