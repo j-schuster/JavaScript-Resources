@@ -32,3 +32,7 @@ Welcome! I put together this document to keep track of helpful and educational t
 [learnrxjs](https://www.learnrxjs.io)
 
 [intro to rxjs](https://medium.com/@rossbulat/rxjs-a-simple-introduction-32fb48f52a67)
+
+### Design patterns
+
+[roadmap.sh](https://roadmap.sh/guides/design-patterns-for-humans)
