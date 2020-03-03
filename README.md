@@ -36,3 +36,7 @@ Welcome! I put together this document to keep track of helpful and educational t
 ### Design patterns
 
 [design patterns for humans](https://roadmap.sh/guides/design-patterns-for-humans)
+
+### Profession & Workplace
+
+[Levels of Seniority](https://roadmap.sh/guides/levels-of-seniority)
