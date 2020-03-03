@@ -3,6 +3,10 @@ A resource for educational JavaScript based material for the modern web develope
 
 Welcome! I put together this document to keep track of helpful and educational tools I come across from day to day. Hope you might find it helpful. Have something to add? Go ahead, make a PR :)
 
+### Roadmap of a frontend developer 
+
+[roadmap.sh](https://roadmap.sh/frontend)
+
 ### JavaScript Fundamentals - Beginner to Advanced 
 
 [javascript.info](https://javascript.info/ )
