@@ -40,3 +40,9 @@ Welcome! I put together this document to keep track of helpful and educational t
 ### Profession & Workplace
 
 [Levels of Seniority](https://roadmap.sh/guides/levels-of-seniority)
+
+### Awesome Free Tutorials
+
+`Vanilla JS`
+
+[MDN Canvas Brick Game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
