@@ -25,6 +25,10 @@ Welcome! I put together this document to keep track of helpful and educational t
 
 [reactjs.org](https://reactjs.org/)
 
+### Promises
+
+[Promise Basics](https://javascript.info/promise-basics)
+
 ### Reactive Programming 
 
 [rxjsdocs](https://rxjs-dev.firebaseapp.com/guide/overview)
