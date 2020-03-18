@@ -50,3 +50,9 @@ Welcome! I put together this document to keep track of helpful and educational t
 `Vanilla JS`
 
 [MDN Canvas Brick Game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
+
+### Animation Performance
+
+[Animation Performance](https://developer.mozilla.org/en-US/docs/Web/Performance/Animation_performance_and_frame_rate)
+
+[CSS Expense Triggers](https://csstriggers.com/)
