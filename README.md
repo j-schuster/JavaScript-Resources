@@ -56,3 +56,9 @@ Welcome! I put together this document to keep track of helpful and educational t
 [Animation Performance](https://developer.mozilla.org/en-US/docs/Web/Performance/Animation_performance_and_frame_rate)
 
 [CSS Expense Triggers](https://csstriggers.com/)
+
+### Interview Preparation 
+
+[LeetCode](https://leetcode.com/)
+[Google Interview Video](https://www.youtube.com/watch?v=XKu_SEDAykw)
+
